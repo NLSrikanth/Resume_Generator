@@ -1,0 +1,16 @@
+Project Introduction
+
+Objective
+---------
+
+You will develop a web application that will auto-generate a nice and properly formatted Resume from the information filled up in a form.
+
+
+Project Context
+----------------
+
+Creating a resume is a bit tedious task for any working professional from any industry. One has to keep it short, simple, and with the latest work experience, and constantly update it over a while.
+
+This project will help you through the process that can be followed to build your resume-builder using ReactJS and NodeJS. Implementing the project will give you the satisfaction of auto-generating it on your own and helping working professionals with the same.
+
+Build a Resume-Builder Web App and add it to your resume to get recognized !! Isn't that interesting? Let's get started then!
